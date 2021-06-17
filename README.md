@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @satishnarasimhan
-- 👀 All eyes here are on my repos created as part of my professional and academic learnings
+- 👋 Hi, I’m @satishnarasimhan.
+- 👀 All eyes here are on my repos created as part of my professional and academic learning.
 - 🌱 The seeds of various projects are present here. 
 
 <!---
